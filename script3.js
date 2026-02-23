@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+      document.addEventListener('DOMContentLoaded', () => {
     const items = document.querySelectorAll('.item');
 
     const activeItem = document.querySelector('.item.active');
